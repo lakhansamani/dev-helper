@@ -5,10 +5,11 @@ Contains Links for all general purpose functionalities in various technologies
 
 * Express, MongoDB-for doing CRUD operations, https://github.com/lakhansamani/AdMiRaL
 
+
 ## AngularJS 1.x
 
 * Using Angular ui-router, https://github.com/lakhansamani/angular-ui-router
-
+* Materialize dashbard https://github.com/lakhansamani/materialize-dashboard
 ## React
 
 * Getting started with react.js https://github.com/lakhansamani/react-helper
