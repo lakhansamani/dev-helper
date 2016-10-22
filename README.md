@@ -4,7 +4,7 @@ Contains Links for all general purpose functionalities in various technologies
 ## NodeJS
 
 * Express, MongoDB-for doing CRUD operations, https://github.com/lakhansamani/AdMiRaL
-
+* Express rest api for crud and authentication authorization using JSON web tokens : https://github.com/lakhansamani/react-redux-quickstart/tree/api
 
 ## AngularJS 1.x
 
